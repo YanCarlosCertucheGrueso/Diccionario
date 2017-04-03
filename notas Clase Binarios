@@ -1,0 +1,14 @@
+Archivos Binarios
+se leen bloques de tamaños determinados.
+fread:
+fread(variable,tamañodecadadato,cuantosDatos,punteroalarchivo) retorna
+el número de datos leidos.
+fwrite(punero que almacena o variable,tamañodel bloqque de datos, tamaño de cada dato, )
+fseek():
+fseek(apuntador al archivo, ña posición donde yo quiero leer, constante desde):
+constantes como:
+seek_set(0): abicarse en la posicoón pos desde el inicio
+seek_cur(1):
+seek_
+
+Un Diccionario con estructuras.
